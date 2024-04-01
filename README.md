@@ -1,1 +1,1 @@
-# Fudamentos-de-Python-Ejercicios-
+# Fundamentos-de-Python-Ejercicios-
